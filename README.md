@@ -6,4 +6,7 @@ That would be ponderous.
   
 Don't worry, this Python program is here for automating tasks like that.  
   
-### Run is code on your IDE. But make sure that _your cursor is on the message input text field of the intendent recipient_. Otherwise, the message will be sent elsewhere.
+### Run this code on your IDE. But make sure that _your cursor is on the message input field of the intendent recipient_. Otherwise, the message will be sent elsewhere.
+  
+  
+PyAutoGUI module for Python programmatically controls the mouse & keyboard. Explore PyAutoGUI to know more of its usage.
