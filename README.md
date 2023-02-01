@@ -6,4 +6,4 @@ That would be ponderous.
   
 Don't worry, this Python program is here for automating tasks like that.  
   
-##### Run is code on your IDE. **But make sure that _your cursor is on the message input text field of the intendent recipient_**. Otherwise, the message will be sent elsewhere.
+#### Run is code on your IDE. But make sure that _your cursor is on the message input text field of the intendent recipient_. Otherwise, the message will be sent elsewhere.
